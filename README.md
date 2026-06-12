@@ -1,4 +1,4 @@
-# Culto Checklist
+# Service Checklist
 
 A web application designed to simplify the organization and preparation of church services by centralizing all the essential information in one place.
 
