@@ -1,2 +1,1 @@
-# CHECKLIST-CULTO
-checklist feito para gerir todas as informaçoes para o culto de minha igreja
+A web application designed to organize and manage all the information required for church services.
